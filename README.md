@@ -26,13 +26,13 @@ The fictional company, **Fancy Hats, Inc.**, is a 100-year-old premium hat retai
 └── employees/   # Employee resumes, job descriptions, and ambitions
 ```
 
-### `agent/`
+### [`agent/`](agent/)
 Markdown files that define how an AI advisor should behave when working with this company — what to read, how to reason, what tone to take, and where the boundaries are. Drop these into the system prompt, project instructions, or context window of an agentic AI provider.
 
-### `company/`
+### [`company/`](company/)
 Demo data describing the company itself: an overview and dossier, the three-year strategic roadmap, and the active project portfolio. This is the strategic context the agent reasons against.
 
-### `employees/`
+### [`employees/`](employees/)
 Demo data for a small set of employees. Each employee has three files: a resume, the job description for their current role, and a confidential "ambitions" file capturing their career goals in their own words. This is the people context the agent personalizes against.
 
 ## How to Use It
