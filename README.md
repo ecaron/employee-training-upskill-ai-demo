@@ -52,14 +52,13 @@ The agent will combine the roadmap, the active projects, and the individual empl
 ```markdown
 Based on what you know about my company and my employees, please suggest two training opportunities to offer my employees. Things to keep in mind:
 * Focus on skills that will help my company in the near future.
-* Prioritize skills where my employees can learn and grow together.
-* Don't worry about all employees have to attend all trainings. I'd prefer each training be tremendously beneficial to 25% of my employees than being minimally beneficial to 100% of my employees.
+* Prioritize skills where multiple - but not necessarily all - employees can learn and grow together. I'd prefer each training be tremendously beneficial to 25% of my employees than being minimally beneficial to 100% of my employees.
  
 For each training opportunity that you identify:
 * Write the title and brief description of each opportunity, plus a couple sentences of why it helps the company
 * Provide a bullet list of who should attend and a sentence about why this would benefit them
-* If you identify an existing employee with existing skills in this area who could support or lead the training, mention that.
-* Provide a rough budget and timeline, as well as a shortlist of specific external resources that some of the training opportunties will require
+* If you identify an existing employee (not one who is in attendance) with existing skills in this area who could support or lead the training, mention that.
+* Provide a rough budget and timeline, as well as a shortlist of specific external resources that some of the training opportunities will require
 ```
 
 ## Notes
