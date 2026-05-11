@@ -1,52 +1,41 @@
-To support the aggressive push from $42M to $90M by 2028, training must move beyond generic skills and directly support this year's "Build the Engine" roadmap. Based on your team's stated ambitions and the upcoming strategic bets, here are two cohort-based training opportunities designed to build shared vocabulary among your rising leaders while directly advancing live projects.
+To support the 2026–2028 roadmap—specifically the leap from a $42M regional footprint to a $90M coast-to-coast brand—we need to build specialized capabilities in data forecasting and multi-unit retail expansion. Rather than generic training for everyone, these two targeted cohorts invest heavily in the people who will actually execute our upcoming strategic bets.
 
-### 1. Applied Retail Finance & Forecasting Cohort
-**Description:** A hands-on financial literacy program that uses Fancy Hats' actual P&L and the upcoming inventory forecasting overhaul as the core curriculum.
+### 1. Advanced SQL & Demand Forecasting Bootcamp
+**Description:** A rigorous, data-focused upskilling sprint designed to transition operational leaders from manual spreadsheets to live database querying and predictive modeling.
 
-**Why it helps the company:** Scaling nationwide requires decentralized, profitable decision-making (Guiding Principle #2). As the new inventory forecasting system rolls out this summer, training a cohort of mid-level managers on the underlying math ensures the system successfully reduces the $2M in annual stockouts and protects margins.
-
-**Who should attend:**
-* **Marcus Webb:** He explicitly wants to learn the math behind forecasting and planning, which builds the foundation for his goal of eventually running his own P&L.
-* **Sarah Kim:** She wants to bridge her retail math skills into corporate finance, making her a sharper buyer.
-* **Jenna Alvarez:** She wants to learn how to read a P&L without panicking, which is critical for her transition into a product manager role.
-* *Other rising ICs and new managers across Merch, CX, and Marketing (~10-15 people).*
-
-**Internal Lead:** David Chen (COO) should lead this. He already owns the inventory/forecasting project and can anchor the training in real company data rather than abstract theory.
-
-**Budget & Timeline:**
-* **Timeline:** Q3 2026 (aligning with the summer pilot of the new forecasting system).
-* **Budget:** $8,000–$12,000 (~0.02% of the $50M revenue target) for an external curriculum facilitator, plus David's time.
-
-**External Resources (Starting points, not endorsements):**
-* *Business Acumen Institute* (for custom, retail-specific finance workshops).
-* *American Management Association (AMA)* (Finance for Non-Financial Managers program).
-* *Coursera for Business* (as a cost-effective baseline pre-read).
-
-***
-
-### 2. Strategic Expansion & Executive Communication Intensive
-**Description:** A cohort-based leadership communication and project management track, culminating in a formal presentation to the executive team about the upcoming 2027 Western Expansion and Millennial Brand Refresh.
-
-**Why it helps the company:** The 2027 roadmap requires opening four new stores and rolling out a brand refresh without dropping your 78 NPS. You need cross-functional leaders who can manage complex projects, train new regional teams, and confidently communicate strategy across departments.
+**Why it helps the company:** We are piloting a new forecasting system this summer to solve the stockouts that cost us ~$2M last year. As we add multiple fulfillment centers and scale to 25+ stores, our operational leaders must be able to pull their own data and run models without bottlenecking the engineering team.
 
 **Who should attend:**
-* **Sarah Kim:** She wants to lead projects end-to-end and needs to overcome her fear of presenting to leadership; tying this to the Western expansion aligns perfectly with her desire to travel West.
-* **Robert Chen:** This gives him the formal leadership training he craves and exposure to the multi-unit, strategic side of the business beyond just flagship store ops.
-* **Jenna Alvarez:** This provides a structured environment to practice her goal of speaking up in senior meetings while integrating e-commerce into physical retail launches.
-* **Marcus Webb:** This gets him the executive exposure he wants, helping him move out of pure CX and into a broader strategy mindset.
-* *Other high-potential talent earmarked for regional or director roles in the 2027 expansion.*
+* **Marcus Webb (CS Team Lead):** He already self-taught basic SQL and built his team's daily dashboard; this gives him the quantitative rigor he needs to eventually run his own P&L and move into strategy.
+* **Sarah Kim (Assistant Buyer):** She built the first vendor scorecard and has advanced Excel skills; this accelerates her path to Senior Buyer by giving her the ability to independently analyze corporate-level planning data.
 
-**Internal Lead:** Margaret Holloway (CEO) and Tomás Reyes (VP CX) as executive panelists and presentation coaches.
+**Internal Lead:** **Marcus Webb** can act as the peer-learning anchor given his dashboard experience, with **David Chen (COO)** serving as the executive sponsor since he owns the forecasting overhaul project.
 
-**Budget & Timeline:**
-* **Timeline:** Q4 2026 (preparing emerging leaders for the Year 2 expansion push).
-* **Budget:** $12,000–$18,000 for a specialized communication coach.
+### 2. Multi-Unit Leadership & Brand Extension Practicum
+**Description:** A blended executive education and on-the-ground deployment cohort focused on opening net-new retail markets and translating a legacy brand to a modern audience.
 
-**External Resources (Starting points, not endorsements):**
-* *Decker Communications* (Executive presence and presentation coaching).
-* *Duarte* (Storytelling and visual presentation workshops).
-* *Toastmasters International* (Sponsoring a corporate club for ongoing, low-cost practice).
+**Why it helps the company:** Guiding principle #1 is "Service is the product." As we cross the Mississippi for the first time with the Denver pop-up, we need leaders who know how to export our flagship "3-ring" service standards to a brand-new store and ensure the Millennial Brand Refresh lands effectively in physical retail.
 
-***
+**Who should attend:**
+* **Robert Chen (Store Manager, Flagship):** He explicitly wants to open a store from scratch and move into multi-unit retail; this is the exact executive training and strategic HQ exposure he needs to become a Regional Director.
+* **Sarah Kim (Assistant Buyer):** She wants to learn how to build a brand (not just buy for one) and travel the West Coast; this pairs her with an operational veteran while giving her the end-to-end project leadership she asked for.
 
-**Tradeoffs & Next Steps:** If budget tightens, the Finance cohort can be run entirely in-house by David Chen using historical spreadsheets, though an external facilitator helps standardize the curriculum. If you want to move forward, I can draft a one-pager to share with David and Margaret to align on Q3 scheduling.
+**Internal Lead:** **Robert Chen** should lead the service-standard modules for the new market (leveraging his Disney Institute training), with **Eleanor Park (VP Merch)** sponsoring since she owns the Denver expansion.
+
+---
+
+### Budget & Timeline
+
+| Program | Estimated Cost | Timeline |
+| :--- | :--- | :--- |
+| **SQL & Forecasting Bootcamp** | $3,000 – $5,000 | **Q3 2026:** Aligns with the summer forecasting pilot, allowing Marcus and Sarah to apply skills to live data immediately. |
+| **Multi-Unit Leadership** | $12,000 – $18,000 (incl. Denver travel) | **Q2/Q3 2026:** Executive coursework begins immediately, culminating in an on-the-ground deployment for the June Denver pop-up. |
+| **Total** | **$15,000 – $23,000** | *Context: Extremely efficient. The total cost is roughly 1% of the $2M we lost to stockouts last year alone.* |
+
+### External Resources
+*Starting points, not endorsements:*
+* **For Data & Forecasting:** DataCamp for Business (custom retail data track), General Assembly (part-time Data Analytics), or Maven Analytics.
+* **For Retail Leadership:** eCornell (Retail Management Certificate), IDEO U (Designing Strategy), or NRF Retail Leadership programs.
+
+**Next Steps:**
+This plan intentionally leaves Jenna Alvarez out, keeping her fully focused on her role as the business lead for the massive E-Commerce replatform launching in July. If budgets tighten, cut the formal executive education from the Multi-Unit program and just fund Robert and Sarah's travel to Denver to learn by doing. Let me know if you want a one-pager drafted to pitch either of these to David or Eleanor.
